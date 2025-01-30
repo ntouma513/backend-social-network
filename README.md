@@ -15,7 +15,7 @@
 ### mongod
 ### npm start
 
-## Credit
-
 
 ## Walkthrough Video
+
+### https://drive.google.com/file/d/1ncjHvoV2zHJ9obCs68nDpjhzu1hHA1ZT/view
